@@ -28,7 +28,9 @@ Este projeto é um scraper desenvolvido com **Python** e **Scrapy** que coleta c
 2.Crie e ative um ambiente virtual (opcional, mas recomendado):
 bash
 python -m venv venv
-venv\Scripts\activate   # Windows
+
+venv\Scripts\activate  # Windows
+
 source venv/bin/activate   # Linux/macOS
 
 3.Instale o Scrapy:
